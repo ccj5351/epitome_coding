@@ -6,7 +6,7 @@
 <img src="files/workflow-2.png" width="800"/>
 </p>
 
-- Learning the epitome $E$ of a collection of images `{I_i}`, and doing the reconstruction via $E$ and the associated transform map ${\Psi_i}$.
+- Learning the epitome `E` of a collection of images `{I_i}`, and doing the reconstruction via `E` and the associated transform map `{Φ_i}`.
 
 - Then the bitstream of entropy-encoded epitome, transform maps, and residuals, can be transmitted with bandwidth saving and economic storage.
 
