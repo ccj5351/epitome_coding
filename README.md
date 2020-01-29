@@ -2,11 +2,11 @@
 
 ## Overall Framework of Our Approach
 <p align="center">
-<img src="files/workflow-1.png" width="600"/>
-<img src="files/workflow-2.png" width="600"/>
+<img src="files/workflow-1.png" width="700"/>
+<img src="files/workflow-2.png" width="700"/>
 </p>
 
-- Learning the epitome $E$ of a collection of images $I_i$ ${I_i }$, and doing the reconstruction via $E$ and the associated transform map ${\Psi_i}$.
+- Learning the epitome $E$ of a collection of images `{I_i}`, and doing the reconstruction via $E$ and the associated transform map ${\Psi_i}$.
 
 - Then the bitstream of entropy-encoded epitome, transform maps, and residuals, can be transmitted with bandwidth saving and economic storage.
 
@@ -35,7 +35,7 @@ input images.
 
 - In our study, the inputs and the learned epitome is shown below.
 <p align="center">
-  <img src="files/input-epitome.png" width="600"/>
+  <img src="files/input-epitome.png" width="700"/>
 </p>
 
 
@@ -43,7 +43,7 @@ input images.
 
 The transform maps, consisting of column indices shown in fig-(b), and row indices shown in fig-(c), are spatially redundant and similar to the input image shown in fig-(a).
 <p align="center">
-  <img src="files/transform-maps.bmp" width="600"/>
+  <img src="files/transform-maps.bmp" width="700"/>
 </p>
 
 ### Residual Processing and Encoding
@@ -60,12 +60,12 @@ The transform maps, consisting of column indices shown in fig-(b), and row indic
 
 - Dataset: Images are shot by myself on the campus at Stevens Institute of Technology.
 <p align="center">
-  <img src="files/dataset.png" width="600"/>
+  <img src="files/dataset.png" width="700"/>
 </p>
 
 - Qualitative Result:
 <p align="center">
-  <img src="files/recons_Page_1.png" width="600"/>
+  <img src="files/recons_Page_1.png" width="700"/>
 </p>
 
 - Quantitative Result:
