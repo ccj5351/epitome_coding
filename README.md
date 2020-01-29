@@ -2,8 +2,8 @@
 
 ## Overall Framework of Our Approach
 <p align="center">
-<img src="files/workflow-1.png" width="700"/>
-<img src="files/workflow-2.png" width="700"/>
+<img src="files/workflow-1.png" width="800"/>
+<img src="files/workflow-2.png" width="800"/>
 </p>
 
 - Learning the epitome $E$ of a collection of images `{I_i}`, and doing the reconstruction via $E$ and the associated transform map ${\Psi_i}$.
@@ -33,7 +33,7 @@ input images.
   <img src="files/epitome-01.jpg" width="600"/>
 </p>
 
-- In our study, the inputs and the learned epitome is shown below.
+- In our study, the inputs and the learned epitome are shown below.
 <p align="center">
   <img src="files/input-epitome.png" width="700"/>
 </p>
@@ -52,7 +52,7 @@ The transform maps, consisting of column indices shown in fig-(b), and row indic
 - Thresholding and quantizing are involved.
 
 <p align="center">
-  <img src="files/residual-histogram.png" width="600"/>
+  <img src="files/residual-histogram.png" width="800"/>
 </p>
 
 ## Dataset and Experimental Results
@@ -60,12 +60,12 @@ The transform maps, consisting of column indices shown in fig-(b), and row indic
 
 - Dataset: Images are shot by myself on the campus at Stevens Institute of Technology.
 <p align="center">
-  <img src="files/dataset.png" width="700"/>
+  <img src="files/dataset.png" width="800"/>
 </p>
 
 - Qualitative Result:
 <p align="center">
-  <img src="files/recons_Page_1.png" width="700"/>
+  <img src="files/recons_Page_1.png" width="800"/>
 </p>
 
 - Quantitative Result:
