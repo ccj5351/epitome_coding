@@ -1,9 +1,10 @@
 # Epitome Transform Coding: Towards Joint Compression of a Set of Images
 
 ## Overall Framework of Our Approach
-
+<p align="center">
 <img src="files/workflow-1.png" width="500"/>
 <img src="files/workflow-2.png" width="500"/>
+</p>
 
 - Learning the epitome $E$ of a collection of images $I_i$ ${I_i }$, and doing the reconstruction via $E$ and the associated transform map ${\Psi_i}$.
 
@@ -28,7 +29,9 @@ input images.
 ### Epitome Learning
 
 - The epitome is learned so that if small patches are sampled in an unordered fashion from it, they will have nearly the same appearance as patches sampled from the original input image.
+<p align="center">
   <img src="files/epitome-01.jpg" width="500"/>
+</p>
 
 ### Transform Map Encoding
 
