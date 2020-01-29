@@ -1,0 +1,3 @@
+"E:/Edwin-less-try-debug/Edwin-less-try" "E:/Edwin-less-try-debug/epi-6_4_epi-sub-Edwin-less-try" "E:/Edwin-less-try-debug/compress-recon-sub-Edwin-less-try" 0 "Edwin-less-try" 5 "4-5-6-7-8" 0 207 8 4 10 "recon-" ".bmp" 0 "UPDATED_FFTW" 8 90 JPEG2K 2 "NOTHING" 1 1 3 "E:/Compressor-Libraries/OpenJPEG/openjpeg-2.1.0/bin"
+
+"C:/EpitomeDataset/try/esb-2" "C:/EpitomeDataset/epi-recon/epi-FFT-ESB2" "C:/EpitomeDataset/compress-epi-recon/epi-FFT_compre-ESB2" 0 "ESB2" 3 "4-6-8" "baseline" 0 10 0 256 8 4 10 "recon-" ".bmp" 20 2 8 90 JPEG2K 2 "NOTHING" 0 "C:/Useful_Library_CCJ/openjpeg-2.1.0-win32-x86/bin" 0 "C:/EpitomeDataset/epi-recon/epi-FFT-ESB2/1-0-30-2-1"
